@@ -11,7 +11,7 @@ f = 50e-3                   # レンズ焦点距離 f = 50 mm
 diameter_in = 3.0e-3        # 初期ビーム径 = 3.0 mm
 w_in = diameter_in / 2      # 初期ビーム半径 = 1.5 mm
 
-tau_fwhm = 3.0e-9           # パルス半値全幅 3 ns
+tau_fwhm = 4.0e-9           # パルス半値全幅 4 ns
 
 # レーザーのパルスエネルギー（例: 1.0 mJ = 1.0e-3 J）
 pulse_energy = 1.0e-3       
